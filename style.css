@@ -225,6 +225,23 @@ li {
   border-width: 3px;
   padding: 10px;
 }
+
+.tales {
+  background-image:url('https://64.media.tumblr.com/ea568d43430e0f881680e5cdb622a1b3/tumblr_inline_n258q4r8c01qhwjx8.png');
+  background-repeat: repeat;
+  color: white;
+}
+
+.story {
+  margin-top: 35px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-style: ridge;
+  border-width: 3px;
+  padding: 10px;
+}
+  
   
 
 /* projects */
