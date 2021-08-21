@@ -1,6 +1,6 @@
 body {
   color: white;
-  font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
+  font-family: 'Balsamiq Sans', Tahoma, Verdana, Helvetica, Arial, ;
   cursor: url(cursor.png), progress;}
   a:hover {cursor: url(cursor.png), progress;
 }
@@ -53,6 +53,7 @@ a:active {
   margin-bottom: auto;
   margin-right: 90px;
   margin-left: 90px;
+  font-family: 'Fredoka One';
 }
 
 .siteintro {
@@ -107,6 +108,7 @@ li {
 }
 
 #hewo {
+  font-family: 'Fredoka One';
   text-shadow: 0 0 3px #edd1d4;
   color: #1c0303;
 }
